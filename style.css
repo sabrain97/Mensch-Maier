@@ -1,0 +1,8 @@
+body {
+    background-image: url('download.jpg'); /* Pfad zum Bild */
+    background-size: 50%; /* Bild kleiner darstellen */
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+}
