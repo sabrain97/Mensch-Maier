@@ -1,5 +1,5 @@
 body {
-    background-image: url(Download.jpg'); /* Pfad zum Bild */
+    background-image: url('Download.jpg'); /* Bild im gleichen Ordner wie die CSS-Datei */
     background-size: 50%; /* Bild kleiner darstellen */
     background-position: center;
     background-repeat: no-repeat;
